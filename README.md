@@ -1,6 +1,6 @@
 ### Hi, I'm  Julio👋
 
-Graduado en Gestión y Operaciones del transporte Aéreo en la Universidad Politécnica de Madrid con experiencia tanto en el transporte aéreo como en el transporte terrestre 👨‍🎓. Mi reciente interés por los datos y la interpretación de ellos para la toma de decisiones ha ido en aumento a lo largo de este último tiempo. Por esta razón, y gracias al bootcamp estudiado, tome la decisión de embarcarme en este mundo tan fascinante, diferente y nuevo para mi. Es por ello que me encuentro en la busqueda de un rol y/o trabajo donde pueda desempeñar, aprender y aplicar todo lo aprendido.
+Graduado en Gestión y Operaciones del transporte Aéreo en la Universidad Politécnica de Madrid con experiencia tanto en el transporte aéreo como en el transporte terrestre 👨‍🎓. Mi reciente interés por los datos y la interpretación de ellos para la toma de decisiones ha ido en aumento a lo largo de este último tiempo. Por esta razón, y gracias al bootcamp estudiado, tome la decisión de embarcarme en este mundo tan fascinante, diferente y nuevo para mi. Es por ello que me encuentro en la búsqueda de un rol y/o trabajo donde pueda desempeñar, aprender y aplicar todo lo aprendido.
 
 
 Habilidades 🛠️:
@@ -11,7 +11,7 @@ Habilidades 🛠️:
 
 💡 Power BI.
 
-💡 Statgrafics.
+💡 Statgraphics.
 
 
 Expectante por participar en nuevos proyecto y aprender de esta comunidad. Entusiasmado por escuchar nuevas ideas y sugerencias!
