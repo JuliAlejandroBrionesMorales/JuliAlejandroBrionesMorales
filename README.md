@@ -21,5 +21,5 @@ Contacto 📫:
 
 🖥️ Linkedin: https://www.linkedin.com/in/julio-alejandro-briones-morales-6560121b7/
 
-🖥️ Linkedin: juliobriones842@gmail.com 
+🖥️ Correo: juliobriones842@gmail.com 
 
