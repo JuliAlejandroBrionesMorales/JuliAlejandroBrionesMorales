@@ -19,7 +19,7 @@ Eager to contribute to new projects and learn from this community, excited to he
 
 Contact 📫:
 
-🖥️ Linkedin: https://www.linkedin.com/in/julio-alejandro-briones-morales-6560121b7/
+🖥️ Linkedin: https://www.linkedin.com/in/julio-briones-morales/
 
 🖥️ Email: juliobriones842@gmail.com 
 
