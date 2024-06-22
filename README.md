@@ -11,8 +11,6 @@ Skills 🛠️:
 
 💡 Power BI
 
-💡 Statgraphics
-
 
 Eager to contribute to new projects and learn from this community, excited to hear new ideas and suggestions!
 
